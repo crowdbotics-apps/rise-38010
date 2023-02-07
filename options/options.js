@@ -10,6 +10,13 @@ export const modulesOptions = {
   "@modules/app-menu": {
     copy: "Routes available!"
   },
+
+  undefined: {
+    title: "App Menu",
+    copy: "Routes available",
+    styles: styles,
+    localOptions: localOptions
+  },
   undefined: {
     title: "App Menu",
     copy: "Routes available",
