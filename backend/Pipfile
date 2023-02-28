@@ -35,3 +35,4 @@ pipenv = "*"
 cb-privacy-policy = {editable = true, path = "./modules/privacy_policy"}
 cb-firebase-push-notifications = {editable = true, path = "./modules/firebase_push_notifications"}
 cb-payments = {editable = true, path = "./modules/payments"}
+cb-terms-and-conditions = {editable = true, path = "./modules/terms_and_conditions"}
