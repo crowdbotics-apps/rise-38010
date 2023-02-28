@@ -34,3 +34,4 @@ google-cloud-storage = "==2.5.0"
 pipenv = "*"
 cb-privacy-policy = {editable = true, path = "./modules/privacy_policy"}
 cb-payments = {editable = true, path = "./modules/payments"}
+cb-firebase-push-notifications = {editable = true, path = "./modules/firebase_push_notifications"}

@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [payments]()
 - [react-native-chat](modules/chat)
 - [privacy-policy]()
+- [firebase-push-notifications]()
 
 # Getting started: Frontend
 
